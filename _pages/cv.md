@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="http://jakobwong.github.io/files/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://jakobwong.github.io/files/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://jakobwong.github.io/files/cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="/files/cv.pdf" width="100%" height="500" frameborder="no" marginwidth="0" marginheight="0">
+</iframe>
+<p>You can download a PDF copy of my CV <a href="/files/cv.pdf">here</a>.</p>
