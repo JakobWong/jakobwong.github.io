@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "BIO"
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Fall 2019 - Present: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
