@@ -12,4 +12,4 @@ Hi, Jinbin here. I am a second-year PhD student in computer science at [CIDSE](h
 
 What's News
 ======
-Our submission to the Mini challenge 2 of VAST Challenge 2020 got Honorable Mention! Check these out: [Report](https://jakobwong.github.io/files/Vast2020mc2Report.html)
+Our submission to the Mini challenge 2 of VAST Challenge 2020 got **Honorable Mention**! Check these out: [Report](https://jakobwong.github.io/files/Vast2020mc2Report.html), [Demo](https://vimeo.com/438081158), [Technical Paper](https://jakobwong.github.io/files/vast2020mc2.pdf), [Presentation at IEEE Vis 2020](https://www.youtube.com/watch?v=loPwVaxYSDk&t=3338s).
