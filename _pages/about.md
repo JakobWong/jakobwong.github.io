@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinbin Huang"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, Jinbin here. I am a second-year PhD student in computer science at [CIDSE](https://cidse.engineering.asu.edu/) Arizona State University, where I work with [Dr. Chris Bryan](chrisbryan.github.io) on data visualization. My current research focuses on how to leverage immersive technologies such as virtual reality to enable intuitive but insightful visualization. Besides that I am looking into explainable AI and data storytelling, two excitingly blooming areas in data vis that I want to contribute to.
+Hi, Jinbin here. I am a second-year PhD student in computer science at [CIDSE](https://cidse.engineering.asu.edu/), Arizona State University, where I work with [Dr. Chris Bryan](chrisbryan.github.io) on data visualization. My current research focuses on how to leverage immersive technologies such as virtual reality to enable intuitive but insightful visualization. Besides that I am looking into explainable AI and data storytelling, two excitingly blooming areas in data vis that I want to contribute to.
 
 A data-driven personal website
 ======
